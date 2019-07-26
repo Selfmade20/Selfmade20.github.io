@@ -1,5 +1,6 @@
+---
 Layout: default
-Title: "javascript Strings "
+Title: "Life cycle methods "
 Date: 17-07-2019
 
 ---
