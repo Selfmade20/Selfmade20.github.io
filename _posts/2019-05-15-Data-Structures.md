@@ -1,7 +1,7 @@
 ---
 Layout: default
-Title: "Splice and Slice"
-Date: 14-05-2019
+Title: "Data structures"
+Date: 10-09-2019
 ---
 
 #What is Data Structures 
