@@ -1,7 +1,7 @@
 ---
 Layout: default
 Title: "React and Angular "
-Date: 26-07-2019
+Date: 12-09-2019
 ---
 # What is ReactJS ?
 

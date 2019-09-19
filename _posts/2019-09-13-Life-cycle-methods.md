@@ -1,7 +1,7 @@
 ---
 Layout: default
 Title: "Life cycle methods "
-Date: 17-07-2019
+Date: 13-09-2019
 
 ---
 
