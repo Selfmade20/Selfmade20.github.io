@@ -19,14 +19,4 @@ for a response before moving on, Javascript will keep executing while listening 
 
 ## Here's an example below:
 
-`function first(){`
-`// Simulate a code delay`
-  `setTimeout( function(){`
-    `console.log(1);`
-  `}, 500 );`
-`}`
-`function second(){`
-  `console.log(2);`
-`}`
-`first();`
-`second();`
+`function first(){// Simulate a code delaysetTimeout( function(){console.log(1);}, 500 );}function second(){console.log(2);}first();second();`
