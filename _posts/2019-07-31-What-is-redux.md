@@ -1,6 +1,6 @@
 ---
 Layout: default
-Title: "React and Angular "
+Title: "Redux "
 Date: 31-07-2019
 ---
 
