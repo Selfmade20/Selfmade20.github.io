@@ -15,13 +15,13 @@ Functional components can accept and use props.
 Functional components should be favored if you do not need to make use of React state.
 import React from "react";
 
-const Person = props => (
+`const Person = props => (
   <div>
     <h1>Hello, {props.name}</h1>
   </div>
 );
 
-export default Person;
+export default Person;`
 
 ## Class Components
 
