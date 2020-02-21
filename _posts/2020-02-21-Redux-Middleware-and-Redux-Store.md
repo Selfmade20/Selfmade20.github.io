@@ -13,7 +13,7 @@ Date: 21-02-2020
 ## Middleware in Programming
 - *Middleware* provides a way to interact with actions that have been dispatched to the store before they reach the reducer in the store. Types of different uses for middleware include *logging actions*, *reporting errors*, *making asynchronous requests*, and *dispatching new actions*.
 
-# Using Middleware in programming
+## Using Middleware in programming
 -*Middleware* is used by composing the functions together and passing that function to the createStore call. The composed middleware function is used to replace the store's dispatch method with one that dispatches the action to each middleware function in the chain, with the last middleware function dispatching the action to the store
 
 From the above definitions I can now tell what is Middleware and how does it come into play when concerning programming, but we can often see words like **Store** which I'll get into just below this Redux Middleware chapter.
