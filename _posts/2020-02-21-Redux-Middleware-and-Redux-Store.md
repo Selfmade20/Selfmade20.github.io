@@ -18,7 +18,7 @@ Date: 21-02-2020
 
 From the above definitions I can now tell what is Middleware and how does it come into play when concerning programming, but we can often see words like **Store** which I'll get into just below this Redux Middleware chapter.
 
-# Redux tore
+# Redux store
 
 ## What is Redux store?
 - Redux store is a **Redux** state container for Javascript apps. It functions as a store that stores the whole state of the app in an immutable tree. Using redux is good because it helps when you write applications that behave consistently and run in different environments, for example *client*,*server* and *native*.
