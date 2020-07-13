@@ -1,7 +1,7 @@
 ---
 Layout: default
 Title: "Selenium Automation Testing"
-Date:30-06-2020
+Date: 30-06-2020
 
 ---
 

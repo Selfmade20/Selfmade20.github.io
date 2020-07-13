@@ -1,7 +1,7 @@
 ---
 Layout: default
 Title: "My reopening week so far"
-Date:03-07-2020
+Date: 03-07-2020
 
 ---
 
